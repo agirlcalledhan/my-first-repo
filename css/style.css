@@ -2,6 +2,10 @@
 font-family: 'Noticia Text', serif;
 font-family: 'Julius Sans One', sans-serif;*/
 
+ /*@font-face {
+   font-family: "Courgette";
+   src: url("../fonts/Courgette.ttf");
+ }*/
 
 body {
   background-color: #BFA5C6;
@@ -16,6 +20,7 @@ h1 {
 h2 {
   font-family: 'Courgette', cursive;
   font-size: 40px;
+  color: #fff;
   font-weight: bold;
   padding: 10px 0;
 }
@@ -30,7 +35,7 @@ header {
   text-align: center;
   padding: 20px 0 20px;
   background-color: #D4EFE3;
-  border-bottom: 1px solid #32353F;
+  border-bottom: 5px solid #32353F;
 }
 
 main {
